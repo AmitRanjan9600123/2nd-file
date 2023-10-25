@@ -1,0 +1,14 @@
+/* to use universal selector */
+*{
+    background-color: whitesmoke;
+}
+/* to use id selector */
+#headingone{
+          color: aqua;
+          background-color: black;
+          height: fit-content;
+}
+/* to use class selector */
+.headingfour{
+    color: blue;
+}
